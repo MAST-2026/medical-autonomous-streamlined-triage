@@ -5,7 +5,7 @@ Shane Abbott, Justin Amaya, Tyler Marleton, Christian White, Karla "Kenny" Madri
 ## Overview
 [Project overview and goals to be added]
 
-## Components
+## Components (Tentative)
 
 ### 1. Patient Monitoring Device
 Strapped onto the patient as a harness, monitoring vitals such as heart rate, blood pressure, temperature, etc. Would transmit this information.
@@ -49,11 +49,11 @@ I've initialized KiCad and PlatformIO projects in the electrical/firmware direct
 
 ## Contributing
 
-1. Fork the repository
+1. CLONE the repository, not fork. i mean either way doesnt matter but for the sake of simplicit. yas.
 2. Create a feature branch (`git checkout -b feature/your-feature`)
 3. Commit changes (`git commit -m 'Add feature'`)
 4. Push to branch (`git push origin feature/your-feature`)
-5. Open a Pull Request
+5. Open a Pull Request. PRs are to merge from your `feature/` branches to the `main` branch
 
 ## TODO
 
