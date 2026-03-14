@@ -29,15 +29,21 @@ I'd like for each project inside each directory (electrical/firmware/assembly) t
 I've initialized KiCad and PlatformIO projects in the electrical/firmware directories. Mech team (Christian, Justin, Shane) can decide how they want to structure the assembly directory.
 
 ```
-├── electrical/
-│   ├── [PMD KiCad Project]
-│   ├── [ARD KiCad Project ]
-│   └── [HTU Project 3]
-├── firmware/
-│   ├── [PlatformIO Project 1]
-│   ├── [PlatformIO Project 2]
-│   └── [PlatformIO Project 3]
-├── assembly/
+├── patient-monitoring-device/
+│   ├── electrical
+│   ├── firmware
+│   ├── assembly
+│   └── DECISIONS.md
+├── ambulance-repeater/
+│   ├── electrical
+│   ├── firmware
+│   ├── assembly
+│   └── DECISIONS.md
+├── hospital-transciever/
+│   ├── electrical
+│   ├── firmware
+│   ├── assembly
+│   └── DECISIONS.md
 │   
 └── README.md
 ```
