@@ -1,0 +1,74 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "6708b210-0572-4637-9acc-8a25892ab9ce")
+	(paper "A4")
+	(lib_symbols)
+	(hierarchical_label "PD1_{IN}"
+		(shape output)
+		(at 113.03 77.47 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b4c388f1-587a-4962-a25b-cee86398bdf8")
+	)
+	(hierarchical_label "PD_{GND}"
+		(shape output)
+		(at 113.03 81.28 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b4c388f1-587a-4962-a25b-cee86398bdf8")
+	)
+	(hierarchical_label "PD2_{IN}"
+		(shape output)
+		(at 113.03 73.66 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b4c388f1-587a-4962-a25b-cee86398bdf8")
+	)
+	(hierarchical_label "LED3_{DRV}"
+		(shape input)
+		(at 113.03 93.98 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b4c388f1-587a-4962-a25b-cee86398bdf8")
+	)
+	(hierarchical_label "LED1_{DRV}"
+		(shape input)
+		(at 113.03 85.09 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b4c388f1-587a-4962-a25b-cee86398bdf8")
+	)
+	(hierarchical_label "LED2_{DRV}"
+		(shape input)
+		(at 113.03 88.9 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b4c388f1-587a-4962-a25b-cee86398bdf8")
+	)
+)

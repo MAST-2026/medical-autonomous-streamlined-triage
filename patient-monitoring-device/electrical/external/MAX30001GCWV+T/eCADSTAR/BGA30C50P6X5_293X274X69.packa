@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "MAX30001GCWV+T"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-04-04-13:42:42)
+    (mountForm default
+        (footprintRef "BGA30C50P6X5_293X274X69")
+        (spec "System")
+    )
+)

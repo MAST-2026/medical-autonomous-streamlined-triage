@@ -1,0 +1,19 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "c042940e-84f8-4fad-b394-8ce7cb2d930e")
+	(paper "A4")
+	(lib_symbols)
+	(hierarchical_label "Electrode"
+		(shape input)
+		(at 106.68 85.09 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b00cd0de-26f3-4d80-855b-af1d11a1ebb7")
+	)
+)

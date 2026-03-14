@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX30001GCWV+T
+D Ultra-Low-Power, Single-Channel Integrated Biopotential (ECG and R-to-R) and Bioimpedance (Resp, GSR/EDA) AFE
+K
+F https://www.analog.com/MAX30001G/datasheet
+$ENDCMP
+#
+#End Doc Library

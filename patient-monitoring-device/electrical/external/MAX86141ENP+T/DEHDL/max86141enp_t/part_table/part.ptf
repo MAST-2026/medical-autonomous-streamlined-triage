@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MAX86141ENP_T'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Analog Devices", "MAX86141ENP+T" (!) = "", "BGA20C40P5X4_205X185X50", "BGA", "700-MAX86141ENP+T", "https://www.mouser.co.uk/ProductDetail/Analog-Devices-Maxim-Integrated/MAX86141ENP%2bT?qs=1mbolxNpo8eXAkUx4%252BsdhQ%3D%3D", "Biometric Sensors Optical AFE Optimized for HR on Wrist Applications.", "https://ms.componentsearchengine.com/Datasheets/2/MAX86141ENP+T.pdf", "0.5 mm"
+END_PART
+
+END.

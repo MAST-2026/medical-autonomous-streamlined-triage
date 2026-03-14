@@ -1,0 +1,9 @@
+Manufacturer=Analog Devices
+PartNumber=MAX30001GCWV+T
+PartCategory=Integrated Circuit
+PackageCategory=BGA
+PinCount=30
+Version=5.1
+Released=2024-10-10 05:18:38
+Downloaded=2026-03-14 10:04:27
+3D=Y

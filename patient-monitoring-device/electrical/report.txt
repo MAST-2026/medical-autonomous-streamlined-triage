@@ -1,0 +1,768 @@
+Info: Processing symbol 'R13:Resistor_SMD:R_0201_0603Metric'.
+Info: Processing symbol 'R3:Resistor_SMD:R_0201_0603Metric'.
+Info: Processing symbol 'C9:Capacitor_SMD:CP_Elec_3x5.3'.
+Info: Processing symbol 'U3:footprints:MAX86141'.
+Info: Processing symbol 'C16:Capacitor_SMD:CP_Elec_3x5.3'.
+Info: Processing symbol 'C4:Capacitor_SMD:CP_Elec_3x5.3'.
+Info: Processing symbol 'R14:Resistor_SMD:R_0201_0603Metric'.
+Info: Processing symbol 'D3:Diode_SMD:Infineon_SG-WLL-2-3_0.58x0.28_P0.36mm'.
+Info: Processing symbol 'R8:Resistor_SMD:R_0201_0603Metric'.
+Info: Processing symbol 'C24:Capacitor_SMD:CP_Elec_3x5.3'.
+Info: Processing symbol 'R4:Resistor_SMD:R_0201_0603Metric'.
+Info: Processing symbol 'C21:Capacitor_SMD:CP_Elec_3x5.3'.
+Info: Processing symbol 'R11:Resistor_SMD:R_0201_0603Metric'.
+Info: Processing symbol 'C15:Capacitor_SMD:CP_Elec_3x5.3'.
+Info: Processing symbol 'C5:Capacitor_SMD:CP_Elec_3x5.3'.
+Info: Processing symbol 'C8:Capacitor_SMD:CP_Elec_3x5.3'.
+Info: Processing symbol 'C12:Capacitor_SMD:CP_Elec_3x5.3'.
+Info: Processing symbol 'U2:footprints:MAX30001'.
+Info: Processing symbol 'R5:Resistor_SMD:R_0201_0603Metric'.
+Info: Processing symbol 'C22:Capacitor_SMD:CP_Elec_3x5.3'.
+Info: Processing symbol 'U4:Package_DFN_QFN:QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm'.
+Info: Processing symbol 'D4:Diode_SMD:Infineon_SG-WLL-2-3_0.58x0.28_P0.36mm'.
+Info: Processing symbol 'R7:Resistor_SMD:R_0201_0603Metric'.
+Info: Processing symbol 'C6:Capacitor_SMD:CP_Elec_3x5.3'.
+Info: Processing symbol 'C14:Capacitor_SMD:CP_Elec_3x5.3'.
+Info: Processing symbol 'C13:Capacitor_SMD:CP_Elec_3x5.3'.
+Info: Processing symbol 'R6:Resistor_SMD:R_0201_0603Metric'.
+Info: Processing symbol 'P1:Connector_USB:USB_C_Receptacle_Amphenol_12401548E4-2A'.
+Info: Processing symbol 'C23:Capacitor_SMD:CP_Elec_3x5.3'.
+Info: Processing symbol 'R12:Resistor_SMD:R_0201_0603Metric'.
+Info: Processing symbol 'C7:Capacitor_SMD:CP_Elec_3x5.3'.
+Info: Processing symbol 'C20:Capacitor_SMD:CP_Elec_3x5.3'.
+Info: Total warnings: 10, errors: 0.
+Info: Processing symbol 'R1:Resistor_SMD:R_0201_0603Metric'.
+Info: Processing symbol 'SW1:Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK'.
+Info: Processing symbol 'C18:Capacitor_SMD:CP_Elec_3x5.3'.
+Info: Processing symbol 'C11:Capacitor_SMD:CP_Elec_3x5.3'.
+Info: Processing symbol 'D1:Diode_SMD:D_0201_0603Metric'.
+Info: Processing symbol 'C19:Capacitor_SMD:CP_Elec_3x5.3'.
+Info: Processing symbol 'U1:RF_Module:ESP32-C3-WROOM-02U'.
+Info: Processing symbol 'R9:Resistor_SMD:R_0201_0603Metric'.
+Info: Processing symbol 'C2:Capacitor_SMD:CP_Elec_3x5.3'.
+Info: Processing symbol 'Q2:Package_TO_SOT_SMD:SOT-23-3'.
+Info: Processing symbol 'C10:Capacitor_SMD:CP_Elec_3x5.3'.
+Info: Processing symbol 'R2:Resistor_SMD:R_0201_0603Metric'.
+Info: Processing symbol 'C1:Capacitor_SMD:CP_Elec_3x5.3'.
+Info: Processing symbol 'D2:Diode_SMD:Infineon_SG-WLL-2-3_0.58x0.28_P0.36mm'.
+Info: Processing symbol 'Q1:Package_TO_SOT_SMD:SOT-23-3'.
+Info: Processing symbol 'C17:Capacitor_SMD:CP_Elec_3x5.3'.
+Info: Processing symbol 'C3:Capacitor_SMD:CP_Elec_3x5.3'.
+Info: Processing symbol 'R10:Resistor_SMD:R_0201_0603Metric'.
+Info: Processing symbol 'R15:Resistor_SMD:R_0201_0603Metric'.
+Updated R9 footprint filters to 'R_*'.
+Updated R11 fields.
+Connected R9 pin 1 to +3V3.
+Updated R10 symbol association from  to /bc75494e-c6e0-4d76-bb35-4c7ac3d9cb9a/af797244-e9f0-4298-adc0-79bec6cdf1d1/862c26a6-2e67-48f7-9512-7a780c29fc0b.
+Updated R11 sheetname to '/ESP/usbToUART/'.
+Updated R11 sheetfile to 'uart.kicad_sch'.
+Updated R10 fields.
+Updated R10 sheetfile to 'uart.kicad_sch'.
+Updated R10 sheetname to '/ESP/usbToUART/'.
+Added SW1 (footprint 'Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK').
+Updated R11 footprint filters to 'R_*'.
+Connected R10 pin 1 to /ESP/usb/V_{BUS}.
+Changed R10 value from R_0201_0603Metric to 22.1k.
+Updated R9 sheetfile to 'uart.kicad_sch'.
+Changed REF** reference designator to R10.
+Updated R11 symbol association from  to /bc75494e-c6e0-4d76-bb35-4c7ac3d9cb9a/af797244-e9f0-4298-adc0-79bec6cdf1d1/7578fd60-c85f-4240-84cb-22bfd6bdfc32.
+Changed R11 value from R_0201_0603Metric to 4.75k.
+Added R10 (footprint 'Resistor_SMD:R_0201_0603Metric').
+Updated R10 footprint filters to 'R_*'.
+Add net Net-(U4-~{RST}).
+Changed REF** reference designator to R11.
+Added R11 (footprint 'Resistor_SMD:R_0201_0603Metric').
+Connected R9 pin 2 to Net-(U4-~{RST}).
+Connected R10 pin 2 to Net-(U4-VBUS).
+Added R15 (footprint 'Resistor_SMD:R_0201_0603Metric').
+Added R14 (footprint 'Resistor_SMD:R_0201_0603Metric').
+Changed REF** reference designator to R14.
+Changed R14 value from R_0201_0603Metric to 5.1k.
+Updated R14 symbol association from  to /bc75494e-c6e0-4d76-bb35-4c7ac3d9cb9a/d688c31b-2cb6-4d00-93a7-ba0353582a2d/9a4c5749-a44d-4668-8a9f-252de1618416.
+Updated R14 fields.
+Updated R14 sheetname to '/ESP/usb/'.
+Updated R14 sheetfile to 'usb.kicad_sch'.
+Updated R14 footprint filters to 'R_*'.
+Connected R14 pin 1 to Net-(P1-CC1).
+Connected R14 pin 2 to GND.
+Connected R13 pin 2 to Net-(Q2-B).
+Changed REF** reference designator to R15.
+Changed R15 value from R_0201_0603Metric to 5.1k.
+Updated R15 symbol association from  to /bc75494e-c6e0-4d76-bb35-4c7ac3d9cb9a/d688c31b-2cb6-4d00-93a7-ba0353582a2d/9d509502-ef89-4d05-a080-8682ba5308dd.
+Updated R15 fields.
+Updated R15 sheetname to '/ESP/usb/'.
+Updated R15 sheetfile to 'usb.kicad_sch'.
+Updated R15 footprint filters to 'R_*'.
+Connected R15 pin 1 to Net-(P1-CC2).
+Connected R15 pin 2 to GND.
+Connected Q2 pin 1 to /ESP/IO_{9}.
+Connected R12 pin 2 to Net-(Q1-B).
+Connected R11 pin 1 to GND.
+Added R12 (footprint 'Resistor_SMD:R_0201_0603Metric').
+Changed REF** reference designator to R12.
+Changed R12 value from R_0201_0603Metric to 10k.
+Updated R12 symbol association from  to /bc75494e-c6e0-4d76-bb35-4c7ac3d9cb9a/af797244-e9f0-4298-adc0-79bec6cdf1d1/511ea434-1040-49eb-af1f-4160de1eaabf.
+Updated R12 fields.
+Updated R12 sheetname to '/ESP/usbToUART/'.
+Updated R12 sheetfile to 'uart.kicad_sch'.
+Updated R12 footprint filters to 'R_*'.
+Connected R12 pin 1 to /ESP/usbToUART/DTR.
+Connected R11 pin 2 to Net-(U4-VBUS).
+Added R13 (footprint 'Resistor_SMD:R_0201_0603Metric').
+Changed REF** reference designator to R13.
+Changed R13 value from R_0201_0603Metric to 10k.
+Updated R13 symbol association from  to /bc75494e-c6e0-4d76-bb35-4c7ac3d9cb9a/af797244-e9f0-4298-adc0-79bec6cdf1d1/f1c96b85-9149-4d29-9556-a2f3a2b8c83f.
+Updated R13 fields.
+Updated R13 sheetname to '/ESP/usbToUART/'.
+Updated R13 sheetfile to 'uart.kicad_sch'.
+Updated R13 footprint filters to 'R_*'.
+Connected R13 pin 1 to /ESP/usbToUART/RTS.
+Added R4 (footprint 'Resistor_SMD:R_0201_0603Metric').
+Added R3 (footprint 'Resistor_SMD:R_0201_0603Metric').
+Changed REF** reference designator to R3.
+Changed R3 value from R_0201_0603Metric to 200.
+Updated R3 symbol association from  to /94c90d4b-01d1-4bb9-ba58-5b4245acc849/a5b603c5-31de-42c2-90b9-da0e0b99b703.
+Updated R3 fields.
+Updated R3 sheetname to '/MAX30001/'.
+Updated R3 sheetfile to 'MAX30001.kicad_sch'.
+Updated R3 footprint filters to 'R_*'.
+Add net /MAX30001/electrode_{N}/Electrode.
+Connected R3 pin 2 to /MAX30001/electrode_{N}/Electrode.
+Connected R3 pin 1 to Net-(U2-BIN).
+Connected R2 pin 1 to Net-(U2-BIP).
+Changed REF** reference designator to R4.
+Changed R4 value from R_0201_0603Metric to 200k.
+Updated R4 symbol association from  to /94c90d4b-01d1-4bb9-ba58-5b4245acc849/cf0679ba-61fe-4acc-9814-828062c30469.
+Updated R4 fields.
+Updated R4 sheetname to '/MAX30001/'.
+Updated R4 sheetfile to 'MAX30001.kicad_sch'.
+Updated R4 footprint filters to 'R_*'.
+Connected R4 pin 1 to Net-(U2-ECGN).
+Connected R4 pin 2 to /MAX30001/electrode_{N}/Electrode.
+Added R5 (footprint 'Resistor_SMD:R_0201_0603Metric').
+Connected R1 pin 2 to GND.
+Add net Net-(Q1-B).
+Added R1 (footprint 'Resistor_SMD:R_0201_0603Metric').
+Changed REF** reference designator to R1.
+Changed R1 value from R_0201_0603Metric to 324k.
+Updated R1 symbol association from  to /94c90d4b-01d1-4bb9-ba58-5b4245acc849/dd919747-9f83-4752-ba5d-8cd49e3b38d0.
+Updated R1 fields.
+Updated R1 sheetname to '/MAX30001/'.
+Updated R1 sheetfile to 'MAX30001.kicad_sch'.
+Updated R1 footprint filters to 'R_*'.
+Add net Net-(U2-R_{BIAS}).
+Connected R1 pin 1 to Net-(U2-R_{BIAS}).
+Changed REF** reference designator to R5.
+Added R2 (footprint 'Resistor_SMD:R_0201_0603Metric').
+Changed REF** reference designator to R2.
+Changed R2 value from R_0201_0603Metric to 200.
+Updated R2 symbol association from  to /94c90d4b-01d1-4bb9-ba58-5b4245acc849/23e19f0d-9514-4e01-b040-e3d684039559.
+Updated R2 fields.
+Updated R2 sheetname to '/MAX30001/'.
+Updated R2 sheetfile to 'MAX30001.kicad_sch'.
+Updated R2 footprint filters to 'R_*'.
+Add net /MAX30001/electrode_{P}/Electrode.
+Connected R2 pin 2 to /MAX30001/electrode_{P}/Electrode.
+Updated R8 sheetname to '/ESP/usbToUART/'.
+Updated R7 fields.
+Updated R7 sheetname to '/ESP/'.
+Updated R7 sheetfile to 'ESP02U.kicad_sch'.
+Updated R7 footprint filters to 'R_*'.
+Connected R7 pin 2 to /ESP/EN.
+Connected R7 pin 1 to +3V3.
+Added R8 (footprint 'Resistor_SMD:R_0201_0603Metric').
+Changed REF** reference designator to R8.
+Changed R8 value from R_0201_0603Metric to (NC)10k.
+Updated R8 symbol association from  to /bc75494e-c6e0-4d76-bb35-4c7ac3d9cb9a/af797244-e9f0-4298-adc0-79bec6cdf1d1/003eb491-deb5-4e59-a59f-7bb43d248343.
+Updated R8 fields.
+Updated R7 symbol association from  to /bc75494e-c6e0-4d76-bb35-4c7ac3d9cb9a/3c92b971-9f90-4070-95ac-46026b753e5e.
+Updated R8 sheetfile to 'uart.kicad_sch'.
+Updated R8 footprint filters to 'R_*'.
+Add net Net-(U4-~{SUSPEND}).
+Connected R8 pin 1 to Net-(U4-~{SUSPEND}).
+Connected R8 pin 2 to GND.
+Added R9 (footprint 'Resistor_SMD:R_0201_0603Metric').
+Changed REF** reference designator to R9.
+Changed R9 value from R_0201_0603Metric to 1k.
+Updated R9 symbol association from  to /bc75494e-c6e0-4d76-bb35-4c7ac3d9cb9a/af797244-e9f0-4298-adc0-79bec6cdf1d1/db88965e-bb0d-4313-973f-d72c351a1646.
+Updated R9 fields.
+Changed R6 value from R_0201_0603Metric to 0.
+Changed R5 value from R_0201_0603Metric to 200k.
+Updated R5 symbol association from  to /94c90d4b-01d1-4bb9-ba58-5b4245acc849/fe044224-553b-44d3-9aa7-5ca0d49a44fd.
+Updated R5 fields.
+Updated R5 sheetname to '/MAX30001/'.
+Updated R5 sheetfile to 'MAX30001.kicad_sch'.
+Updated R5 footprint filters to 'R_*'.
+Connected R5 pin 1 to Net-(U2-ECGP).
+Connected R5 pin 2 to /MAX30001/electrode_{P}/Electrode.
+Added R6 (footprint 'Resistor_SMD:R_0201_0603Metric').
+Changed REF** reference designator to R6.
+Updated R9 sheetname to '/ESP/usbToUART/'.
+Updated R6 symbol association from  to /bc75494e-c6e0-4d76-bb35-4c7ac3d9cb9a/cf0723e7-968a-4a39-8ef8-5a770f4c8343.
+Updated R6 fields.
+Updated R6 sheetname to '/ESP/'.
+Updated R6 sheetfile to 'ESP02U.kicad_sch'.
+Updated R6 footprint filters to 'R_*'.
+Connected R6 pin 1 to Net-(C19-Pad2).
+Connected R6 pin 2 to /ESP/EN.
+Added R7 (footprint 'Resistor_SMD:R_0201_0603Metric').
+Changed REF** reference designator to R7.
+Changed R7 value from R_0201_0603Metric to 10k.
+Add net unconnected-(U3-GPIO-PadB3).
+Add net /MAX86141/oximeter-sensor/PD_{GND}.
+Connected U3 pin C5 to /MAX86141/oximeter-sensor/PD_{GND}.
+Connected U3 pin B2 to /ESP/INT_{SpO2}.
+Connected U3 pin C4 to GND.
+Add net /MAX86141/oximeter-sensor/LED1_{DRV}.
+Connected U3 pin D1 to /MAX86141/oximeter-sensor/LED1_{DRV}.
+Connected U3 pin C2 to +1V8.
+Connected U3 pin A5 to /ESP/CS_{SpO2}.
+Add net /MAX86141/oximeter-sensor/PD1_{IN}.
+Connected U3 pin D5 to /MAX86141/oximeter-sensor/PD1_{IN}.
+Connected U3 pin A1 to +5V.
+Connected U3 pin A4 to /ESP/MOSI.
+Connected U3 pin B3 to unconnected-(U3-GPIO-PadB3).
+Connected U3 pin D3 to GND.
+Connected U3 pin A2 to /ESP/SCK.
+Added U4 (footprint 'Package_DFN_QFN:QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm').
+Changed REF** reference designator to U4.
+Changed U4 value from QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm to CP2102N-Axx-xQFN28.
+Updated U4 symbol association from  to /bc75494e-c6e0-4d76-bb35-4c7ac3d9cb9a/af797244-e9f0-4298-adc0-79bec6cdf1d1/7eb89b21-df59-434b-9bec-19b8814d94a2.
+Updated U4 fields.
+Updated U4 sheetname to '/ESP/usbToUART/'.
+Updated U4 sheetfile to 'uart.kicad_sch'.
+Updated U4 footprint filters to 'QFN*1EP*5x5mm*P0.5mm*'.
+Connected U3 pin C3 to GND.
+Connected U2 pin B4 to GND.
+Connected U2 pin D6 to +1V8.
+Add net +2V5.
+Connected U2 pin D3 to +2V5.
+Added U3 (footprint 'footprints:MAX86141').
+Changed IC** reference designator to U3.
+Updated U3 symbol association from  to /c1da42a5-ffac-4aab-ae5a-bbf99def7772/5647cd6b-37a7-40e7-a9a1-11173a76b628.
+Updated U3 fields.
+Updated U3 sheetname to '/MAX86141/'.
+Updated U3 sheetfile to 'MAX86141.kicad_sch'.
+Connected U3 pin A3 to /ESP/MISO.
+Add net unconnected-(U4-~{TXT}/GPIO.0-Pad19).
+Add net /MAX86141/oximeter-sensor/PD2_{IN}.
+Connected U3 pin D4 to /MAX86141/oximeter-sensor/PD2_{IN}.
+Connected U3 pin B5 to Net-(U3-VREF).
+Add net /MAX86141/oximeter-sensor/LED2_{DRV}.
+Connected U3 pin C1 to /MAX86141/oximeter-sensor/LED2_{DRV}.
+Add net /MAX86141/oximeter-sensor/LED3_{DRV}.
+Connected U3 pin B1 to /MAX86141/oximeter-sensor/LED3_{DRV}.
+Connected U3 pin D2 to +1V8.
+Add net unconnected-(U3-GPIO-PadB4).
+Connected U3 pin B4 to unconnected-(U3-GPIO-PadB4).
+Add net unconnected-(U4-~{DCD}-Pad1).
+Connected U4 pin 13 to unconnected-(U4-CHREN-Pad13).
+Connected U4 pin 26 to /ESP/ESP_{RX}/USB_{TX}.
+Connected U4 pin 9 to Net-(U4-~{RST}).
+Add net unconnected-(U4-~{DSR}-Pad27).
+Connected U4 pin 27 to unconnected-(U4-~{DSR}-Pad27).
+Connected U4 pin 4 to /ESP/usb/USB_{DP}.
+Connected U4 pin 29 to GND.
+Add net unconnected-(U4-NC-Pad10).
+Connected U4 pin 10 to unconnected-(U4-NC-Pad10).
+Add net unconnected-(U4-~{RXT}/GPIO.1-Pad18).
+Connected U4 pin 18 to unconnected-(U4-~{RXT}/GPIO.1-Pad18).
+Add net unconnected-(U4-CHREN-Pad13).
+Connected U4 pin 1 to unconnected-(U4-~{DCD}-Pad1).
+Add net unconnected-(U4-~{WAKEUP}/GPIO.3-Pad16).
+Connected U4 pin 16 to unconnected-(U4-~{WAKEUP}/GPIO.3-Pad16).
+Add net unconnected-(U4-GPIO.4-Pad22).
+Connected U4 pin 22 to unconnected-(U4-GPIO.4-Pad22).
+Add net unconnected-(U4-GPIO.5-Pad21).
+Connected U4 pin 21 to unconnected-(U4-GPIO.5-Pad21).
+Add net unconnected-(U4-GPIO.6-Pad20).
+Connected U4 pin 20 to unconnected-(U4-GPIO.6-Pad20).
+
+
+Add net unconnected-(U4-~{RI}/CLK-Pad2).
+Connected U4 pin 19 to unconnected-(U4-~{TXT}/GPIO.0-Pad19).
+Connected U4 pin 11 to Net-(U4-~{SUSPEND}).
+Add net unconnected-(U4-CHR1-Pad14).
+Connected U4 pin 14 to unconnected-(U4-CHR1-Pad14).
+Add net unconnected-(U4-SUSPEND-Pad12).
+Connected U4 pin 12 to unconnected-(U4-SUSPEND-Pad12).
+Connected U4 pin 7 to +3V3.
+Connected U4 pin 5 to /ESP/usb/USB_{DN}.
+Add net unconnected-(U4-CHR0-Pad15).
+Connected U4 pin 15 to unconnected-(U4-CHR0-Pad15).
+Connected U4 pin 8 to Net-(U4-VBUS).
+Connected U2 pin A3 to Net-(U2-BIN).
+Connected U4 pin 2 to unconnected-(U4-~{RI}/CLK-Pad2).
+Add net unconnected-(U4-~{CTS}-Pad23).
+Connected U4 pin 23 to unconnected-(U4-~{CTS}-Pad23).
+Add net unconnected-(U4-RS485/GPIO.2-Pad17).
+Connected U4 pin 17 to unconnected-(U4-RS485/GPIO.2-Pad17).
+Connected U4 pin 25 to /ESP/ESP_{TX}/USB_{RX}.
+Connected U4 pin 28 to /ESP/usbToUART/DTR.
+Connected U4 pin 3 to GND.
+Connected U4 pin 24 to /ESP/usbToUART/RTS.
+Connected U4 pin 6 to +3V3.
+Add net /ESP/INT_{B}.
+Connected U1 pin 19 to GND.
+Connected U1 pin 19 to GND.
+Add net unconnected-(U1-IO5-Pad4).
+Connected U1 pin 4 to unconnected-(U1-IO5-Pad4).
+Add net /ESP/CS_{ECG,R}.
+Connected U1 pin 10 to /ESP/CS_{ECG,R}.
+Connected U1 pin 1 to +3V3.
+Connected U1 pin 19 to GND.
+Add net /ESP/MOSI.
+Connected U1 pin 7 to /ESP/MOSI.
+Connected U1 pin 19 to GND.
+Connected U1 pin 11 to /ESP/ESP_{RX}/USB_{TX}.
+Connected U1 pin 15 to /ESP/INT_{B}.
+Connected U1 pin 19 to GND.
+Connected U1 pin 19 to GND.
+Connected U1 pin 19 to GND.
+Add net /ESP/MISO.
+Connected U1 pin 16 to /ESP/MISO.
+Connected U1 pin 19 to GND.
+Add net /ESP/ESP_{TX}/USB_{RX}.
+Connected U1 pin 12 to /ESP/ESP_{TX}/USB_{RX}.
+Add net unconnected-(U1-IO19-Pad14).
+Connected U1 pin 14 to unconnected-(U1-IO19-Pad14).
+Updated U1 sheetname to '/ESP/'.
+Changed SW1 value from SW_Push_SPST_NO_Alps_SKRK to push.
+Updated SW1 symbol association from  to /bc75494e-c6e0-4d76-bb35-4c7ac3d9cb9a/abd1a4b1-c550-4952-a5b6-4ddb90ba12e2.
+Updated SW1 fields.
+Updated SW1 sheetname to '/ESP/'.
+Updated SW1 sheetfile to 'ESP02U.kicad_sch'.
+Connected SW1 pin 2 to Net-(C19-Pad2).
+Connected SW1 pin 1 to GND.
+Added U1 (footprint 'RF_Module:ESP32-C3-WROOM-02U').
+Changed REF** reference designator to U1.
+Updated U1 symbol association from  to /bc75494e-c6e0-4d76-bb35-4c7ac3d9cb9a/233ebb89-349b-4003-bc2f-beec9809340d.
+Updated U1 fields.
+Add net unconnected-(U1-IO6-Pad5).
+Updated U1 sheetfile to 'ESP02U.kicad_sch'.
+Updated U1 footprint filters to 'ESP32?C3*WROOM?02U*'.
+Add net /ESP/SCK.
+Connected U1 pin 6 to /ESP/SCK.
+Connected U1 pin 19 to GND.
+Connected U1 pin 8 to /ESP/IO_{9}.
+Connected U1 pin 19 to GND.
+Connected U1 pin 9 to GND.
+Connected U1 pin 2 to /ESP/EN.
+Add net /ESP/ESP_{RX}/USB_{TX}.
+Connected U2 pin E4 to /ESP/MOSI.
+Connected U2 pin E6 to /ESP/CS_{ECG,R}.
+Connected U2 pin C1 to Net-(U2-V_{CM}).
+Connected U2 pin E3 to /ESP/MISO.
+Connected U2 pin C5 to GND.
+Connected U2 pin D2 to /ESP/INT_{B}.
+Connected U2 pin D4 to GND.
+Connected U2 pin C4 to GND.
+Add net /MAX30001/FCLK.
+Connected U2 pin D5 to /MAX30001/FCLK.
+Connected U2 pin B3 to GND.
+Connected U2 pin A4 to Net-(U2-BIP).
+Connected U2 pin D1 to Net-(U2-V_{REF}).
+Connected U2 pin E2 to /ESP/INT_{B2}.
+Connected U2 pin E5 to /ESP/SCK.
+Connected U2 pin A6 to Net-(U2-ECGN).
+Connected U2 pin C6 to Net-(U2-CPLL).
+Connected U2 pin B5 to Net-(U2-CAPN).
+Connected U2 pin B1 to Net-(U2-V_{BG}).
+Connected U2 pin B6 to Net-(U2-CAPP).
+Connected U2 pin A2 to Net-(U2-DRVN).
+Add net unconnected-(U2-AOUT-PadC2).
+Connected U2 pin C2 to unconnected-(U2-AOUT-PadC2).
+Connected U2 pin C3 to GND.
+Connected U1 pin 17 to /ESP/INT_{SpO2}.
+Connected U1 pin 5 to unconnected-(U1-IO6-Pad5).
+Add net /ESP/INT_{B2}.
+Connected U1 pin 3 to /ESP/INT_{B2}.
+Connected U1 pin 19 to GND.
+Add net /ESP/CS_{SpO2}.
+Connected U1 pin 13 to /ESP/CS_{SpO2}.
+Connected U1 pin 19 to GND.
+Add net unconnected-(U1-IO0-Pad18).
+Connected U1 pin 18 to unconnected-(U1-IO0-Pad18).
+Connected U1 pin 19 to GND.
+Add net /ESP/INT_{SpO2}.
+Changed REF** reference designator to SW1.
+Added U2 (footprint 'footprints:MAX30001').
+Changed IC** reference designator to U2.
+Updated U2 symbol association from  to /94c90d4b-01d1-4bb9-ba58-5b4245acc849/774ab67f-3f53-4b1b-b8c9-6084813848cc.
+Updated U2 fields.
+Updated U2 sheetname to '/MAX30001/'.
+Updated U2 sheetfile to 'MAX30001.kicad_sch'.
+Connected U2 pin B2 to Net-(U2-R_{BIAS}).
+Connected U2 pin A1 to Net-(U2-DRVP).
+Connected U2 pin E1 to +1V8.
+Connected U2 pin A5 to Net-(U2-ECGP).
+Changed C12 value from CP_Elec_3x5.3 to 1u.
+Changed C11 value from CP_Elec_3x5.3 to 10u.
+Updated C11 symbol association from  to /c1da42a5-ffac-4aab-ae5a-bbf99def7772/f17168f8-2871-41d4-a5a8-f7b3e9fec683.
+Updated C11 fields.
+Updated C11 sheetname to '/MAX86141/'.
+Updated C11 sheetfile to 'MAX86141.kicad_sch'.
+Updated C11 footprint filters to 'C_*'.
+Connected C11 pin 1 to GND.
+Add net +5V.
+Connected C11 pin 2 to +5V.
+Added C12 (footprint 'Capacitor_SMD:CP_Elec_3x5.3').
+Changed REF** reference designator to C12.
+Changed REF** reference designator to C11.
+Updated C12 symbol association from  to /c1da42a5-ffac-4aab-ae5a-bbf99def7772/82605faf-b35b-44b9-930b-e7c857a89b10.
+Updated C12 fields.
+Updated C12 sheetname to '/MAX86141/'.
+Updated C12 sheetfile to 'MAX86141.kicad_sch'.
+Updated C12 footprint filters to 'C_*'.
+Add net Net-(U3-VREF).
+Connected C12 pin 2 to Net-(U3-VREF).
+Connected C12 pin 1 to GND.
+Added C13 (footprint 'Capacitor_SMD:CP_Elec_3x5.3').
+Changed REF** reference designator to C13.
+Added C10 (footprint 'Capacitor_SMD:CP_Elec_3x5.3').
+Added C9 (footprint 'Capacitor_SMD:CP_Elec_3x5.3').
+Changed REF** reference designator to C9.
+Changed C9 value from CP_Elec_3x5.3 to 0.1u.
+Updated C9 symbol association from  to /c1da42a5-ffac-4aab-ae5a-bbf99def7772/ce7e2afb-c6b8-495d-bc91-5c84455266b9.
+Updated C9 fields.
+Updated C9 sheetname to '/MAX86141/'.
+Updated C9 sheetfile to 'MAX86141.kicad_sch'.
+Updated C9 footprint filters to 'C_*'.
+Add net Net-(C10-Pad1).
+Connected C9 pin 2 to Net-(C10-Pad1).
+Connected C9 pin 1 to +1V8.
+Changed C13 value from CP_Elec_3x5.3 to 10p.
+Changed REF** reference designator to C10.
+Changed C10 value from CP_Elec_3x5.3 to 10u.
+Updated C10 symbol association from  to /c1da42a5-ffac-4aab-ae5a-bbf99def7772/a41a74ab-b596-4773-a4f4-c1eeefdd2d21.
+Updated C10 fields.
+Updated C10 sheetname to '/MAX86141/'.
+Updated C10 sheetfile to 'MAX86141.kicad_sch'.
+Updated C10 footprint filters to 'C_*'.
+Connected C10 pin 2 to GND.
+Connected C10 pin 1 to Net-(C10-Pad1).
+Added C11 (footprint 'Capacitor_SMD:CP_Elec_3x5.3').
+Updated C16 sheetname to '/MAX30001/'.
+Updated C15 fields.
+Updated C15 sheetname to '/MAX30001/'.
+Updated C15 sheetfile to 'MAX30001.kicad_sch'.
+Updated C15 footprint filters to 'C_*'.
+Connected C15 pin 1 to Net-(U2-BIP).
+Connected C15 pin 2 to Net-(U2-BIN).
+Added C16 (footprint 'Capacitor_SMD:CP_Elec_3x5.3').
+Changed REF** reference designator to C16.
+Changed C16 value from CP_Elec_3x5.3 to 2n.
+Updated C16 symbol association from  to /94c90d4b-01d1-4bb9-ba58-5b4245acc849/c8685820-dad4-4f9a-98a1-a484352c161b.
+Updated C16 fields.
+Updated C15 symbol association from  to /94c90d4b-01d1-4bb9-ba58-5b4245acc849/d1076d32-a3a3-4f5d-b71b-fc0d92630e16.
+Updated C16 sheetfile to 'MAX30001.kicad_sch'.
+Updated C16 footprint filters to 'C_*'.
+Add net Net-(U2-ECGP).
+Connected C16 pin 1 to Net-(U2-ECGP).
+Add net Net-(U2-ECGN).
+Connected C16 pin 2 to Net-(U2-ECGN).
+Added C17 (footprint 'Capacitor_SMD:CP_Elec_3x5.3').
+Changed REF** reference designator to C17.
+Changed C17 value from CP_Elec_3x5.3 to 10p.
+Updated C17 symbol association from  to /94c90d4b-01d1-4bb9-ba58-5b4245acc849/c81bd551-9502-4989-a887-d7be2664609d.
+Updated C14 symbol association from  to /94c90d4b-01d1-4bb9-ba58-5b4245acc849/a4c0cfa2-6290-423e-8c17-724c59b6091d.
+Updated C13 symbol association from  to /94c90d4b-01d1-4bb9-ba58-5b4245acc849/4a778e38-5edd-4d19-91e3-63a36a5bdecf.
+Updated C13 fields.
+Updated C13 sheetname to '/MAX30001/'.
+Updated C13 sheetfile to 'MAX30001.kicad_sch'.
+Updated C13 footprint filters to 'C_*'.
+Add net Net-(U2-BIP).
+Connected C13 pin 1 to Net-(U2-BIP).
+Connected C13 pin 2 to GND.
+Added C14 (footprint 'Capacitor_SMD:CP_Elec_3x5.3').
+Changed REF** reference designator to C14.
+Changed C14 value from CP_Elec_3x5.3 to 10p.
+Connected C8 pin 1 to +1V8.
+Updated C14 fields.
+Updated C14 sheetname to '/MAX30001/'.
+Updated C14 sheetfile to 'MAX30001.kicad_sch'.
+Updated C14 footprint filters to 'C_*'.
+Connected C14 pin 1 to GND.
+Add net Net-(U2-BIN).
+Connected C14 pin 2 to Net-(U2-BIN).
+Added C15 (footprint 'Capacitor_SMD:CP_Elec_3x5.3').
+Changed REF** reference designator to C15.
+Changed C15 value from CP_Elec_3x5.3 to 47p.
+Add net Net-(U2-V_{BG}).
+Connected C2 pin 1 to /MAX30001/electrode_2/Electrode.
+Added C3 (footprint 'Capacitor_SMD:CP_Elec_3x5.3').
+Changed REF** reference designator to C3.
+Changed C3 value from CP_Elec_3x5.3 to 1u.
+Updated C3 symbol association from  to /94c90d4b-01d1-4bb9-ba58-5b4245acc849/74b999b5-d79a-4c7b-9578-6da382d461cc.
+Updated C3 fields.
+Updated C3 sheetname to '/MAX30001/'.
+Updated C3 sheetfile to 'MAX30001.kicad_sch'.
+Updated C3 footprint filters to 'C_*'.
+Add net GND.
+Connected C3 pin 2 to GND.
+Add net /MAX30001/electrode_2/Electrode.
+Connected C3 pin 1 to Net-(U2-V_{BG}).
+Added C4 (footprint 'Capacitor_SMD:CP_Elec_3x5.3').
+Changed REF** reference designator to C4.
+Changed C4 value from CP_Elec_3x5.3 to 1u.
+Updated C4 symbol association from  to /94c90d4b-01d1-4bb9-ba58-5b4245acc849/4b7b60ff-e00b-4653-8aac-0b03551b3302.
+Updated C4 fields.
+Updated C4 sheetname to '/MAX30001/'.
+Updated C4 sheetfile to 'MAX30001.kicad_sch'.
+Updated C4 footprint filters to 'C_*'.
+Add net Net-(U2-CAPN).
+Connected C1 pin 2 to Net-(U2-DRVP).
+Added C1 (footprint 'Capacitor_SMD:CP_Elec_3x5.3').
+Changed REF** reference designator to C1.
+Changed C1 value from CP_Elec_3x5.3 to 47n.
+Updated C1 symbol association from  to /94c90d4b-01d1-4bb9-ba58-5b4245acc849/b327e87f-6043-4769-a086-b25ef7dd9937.
+Updated C1 fields.
+Updated C1 sheetname to '/MAX30001/'.
+Updated C1 sheetfile to 'MAX30001.kicad_sch'.
+Updated C1 footprint filters to 'C_*'.
+Add net /MAX30001/electrode_1/Electrode.
+Connected C1 pin 1 to /MAX30001/electrode_1/Electrode.
+Add net Net-(U2-DRVP).
+Connected C4 pin 2 to Net-(U2-CAPN).
+Added C2 (footprint 'Capacitor_SMD:CP_Elec_3x5.3').
+Changed REF** reference designator to C2.
+Changed C2 value from CP_Elec_3x5.3 to 47n.
+Updated C2 symbol association from  to /94c90d4b-01d1-4bb9-ba58-5b4245acc849/99bc1697-5234-410c-a303-5b2d0ad82878.
+Updated C2 fields.
+Updated C2 sheetname to '/MAX30001/'.
+Updated C2 sheetfile to 'MAX30001.kicad_sch'.
+Updated C2 footprint filters to 'C_*'.
+Add net Net-(U2-DRVN).
+Connected C2 pin 2 to Net-(U2-DRVN).
+Connected C7 pin 2 to GND.
+Connected C6 pin 1 to Net-(U2-CPLL).
+Added C7 (footprint 'Capacitor_SMD:CP_Elec_3x5.3').
+Changed REF** reference designator to C7.
+Changed C7 value from CP_Elec_3x5.3 to 10u.
+Updated C7 symbol association from  to /94c90d4b-01d1-4bb9-ba58-5b4245acc849/ede2f103-4f14-4581-b245-48d1093f8618.
+Updated C7 fields.
+Updated C7 sheetname to '/MAX30001/'.
+Updated C7 sheetfile to 'MAX30001.kicad_sch'.
+Updated C7 footprint filters to 'C_*'.
+Add net Net-(U2-V_{REF}).
+Connected C7 pin 1 to Net-(U2-V_{REF}).
+Add net Net-(U2-CPLL).
+Added C8 (footprint 'Capacitor_SMD:CP_Elec_3x5.3').
+Changed REF** reference designator to C8.
+Changed C8 value from CP_Elec_3x5.3 to C.
+Updated C8 symbol association from  to /c1da42a5-ffac-4aab-ae5a-bbf99def7772/45784cc6-18f4-4593-9a57-b57774213e62.
+Updated C8 fields.
+Updated C8 sheetname to '/MAX86141/'.
+Updated C8 sheetfile to 'MAX86141.kicad_sch'.
+Updated C8 footprint filters to 'C_*'.
+Connected C8 pin 2 to GND.
+Add net +1V8.
+Add net Net-(U2-V_{CM}).
+Add net Net-(U2-CAPP).
+Connected C4 pin 1 to Net-(U2-CAPP).
+Added C5 (footprint 'Capacitor_SMD:CP_Elec_3x5.3').
+Changed REF** reference designator to C5.
+Changed C5 value from CP_Elec_3x5.3 to 10u.
+Updated C5 symbol association from  to /94c90d4b-01d1-4bb9-ba58-5b4245acc849/3bdbe5e2-d5bd-4b0c-b877-c8c08702f2b9.
+Updated C5 fields.
+Updated C5 sheetname to '/MAX30001/'.
+Updated C5 sheetfile to 'MAX30001.kicad_sch'.
+Updated C5 footprint filters to 'C_*'.
+Connected C5 pin 2 to GND.
+Updated C17 fields.
+Connected C5 pin 1 to Net-(U2-V_{CM}).
+Added C6 (footprint 'Capacitor_SMD:CP_Elec_3x5.3').
+Changed REF** reference designator to C6.
+Changed C6 value from CP_Elec_3x5.3 to 1n.
+Updated C6 symbol association from  to /94c90d4b-01d1-4bb9-ba58-5b4245acc849/6a6ce3d7-7d15-4bda-98bf-27ec1f253623.
+Updated C6 fields.
+Updated C6 sheetname to '/MAX30001/'.
+Updated C6 sheetfile to 'MAX30001.kicad_sch'.
+Updated C6 footprint filters to 'C_*'.
+Connected C6 pin 2 to GND.
+Updated D4 footprint filters to '*SG?WLL?2?3*'.
+Add net /ESP/usb/USB_{DN}.
+Connected D3 pin 2 to /ESP/usb/USB_{DN}.
+Connected D3 pin 1 to GND.
+Added D4 (footprint 'Diode_SMD:Infineon_SG-WLL-2-3_0.58x0.28_P0.36mm').
+Changed REF** reference designator to D4.
+Changed D4 value from Infineon_SG-WLL-2-3_0.58x0.28_P0.36mm to ESD131-B1-W0201.
+Updated D4 symbol association from  to /bc75494e-c6e0-4d76-bb35-4c7ac3d9cb9a/d688c31b-2cb6-4d00-93a7-ba0353582a2d/85a49e2a-87a6-46fc-b0f8-29b43639d2b9.
+Updated D4 fields.
+Updated D4 sheetname to '/ESP/usb/'.
+Updated D4 sheetfile to 'usb.kicad_sch'.
+Updated D3 footprint filters to '*SG?WLL?2?3*'.
+Add net /ESP/usb/USB_{DP}.
+Connected D4 pin 2 to /ESP/usb/USB_{DP}.
+Connected D4 pin 1 to GND.
+Added P1 (footprint 'Connector_USB:USB_C_Receptacle_Amphenol_12401548E4-2A').
+Changed REF** reference designator to P1.
+Changed P1 value from USB_C_Receptacle_Amphenol_12401548E4-2A to USB_C_Plug_USB2.0.
+Updated P1 symbol association from  to /bc75494e-c6e0-4d76-bb35-4c7ac3d9cb9a/d688c31b-2cb6-4d00-93a7-ba0353582a2d/eda57129-d5c8-47da-a293-22ae08e88736.
+Updated P1 fields.
+Updated P1 sheetname to '/ESP/usb/'.
+Updated P1 sheetfile to 'usb.kicad_sch'.
+Updated D2 sheetfile to 'usb.kicad_sch'.
+Updated D1 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connected D1 pin 1 to +5V.
+Add net /ESP/usb/V_{BUS}.
+Connected D1 pin 2 to /ESP/usb/V_{BUS}.
+Add net /ESP/IO_{9}.
+Changed REF** reference designator to D2.
+Changed D2 value from Infineon_SG-WLL-2-3_0.58x0.28_P0.36mm to ESD131-B1-W0201.
+Updated D2 symbol association from  to /bc75494e-c6e0-4d76-bb35-4c7ac3d9cb9a/d688c31b-2cb6-4d00-93a7-ba0353582a2d/5698b144-246e-4cc8-ba94-e8502ec5618c.
+Updated D2 fields.
+Updated D2 sheetname to '/ESP/usb/'.
+Updated P1 footprint filters to 'USB*C*Receptacle*'.
+Updated D2 footprint filters to '*SG?WLL?2?3*'.
+Connected D2 pin 1 to /ESP/usb/V_{BUS}.
+Connected D2 pin 2 to GND.
+Added D3 (footprint 'Diode_SMD:Infineon_SG-WLL-2-3_0.58x0.28_P0.36mm').
+Changed REF** reference designator to D3.
+Changed D3 value from Infineon_SG-WLL-2-3_0.58x0.28_P0.36mm to ESD131-B1-W0201.
+Updated D3 symbol association from  to /bc75494e-c6e0-4d76-bb35-4c7ac3d9cb9a/d688c31b-2cb6-4d00-93a7-ba0353582a2d/d3d2adeb-a76c-469c-9e27-34aee6eb2b60.
+Updated D3 fields.
+Updated D3 sheetname to '/ESP/usb/'.
+Updated D3 sheetfile to 'usb.kicad_sch'.
+Added Q2 (footprint 'Package_TO_SOT_SMD:SOT-23-3').
+Changed REF** reference designator to Q1.
+Changed Q1 value from SOT-23-3 to NPN.
+Updated Q1 symbol association from  to /bc75494e-c6e0-4d76-bb35-4c7ac3d9cb9a/af797244-e9f0-4298-adc0-79bec6cdf1d1/cf6f3ccb-af2a-4768-94c2-8db37a60f5e2.
+Updated Q1 fields.
+Updated Q1 sheetname to '/ESP/usbToUART/'.
+Updated Q1 sheetfile to 'uart.kicad_sch'.
+Connected Q1 pin 1 to /ESP/EN.
+Connected Q1 pin 2 to Net-(Q1-B).
+Add net /ESP/usbToUART/RTS.
+Connected Q1 pin 3 to /ESP/usbToUART/RTS.
+Added Q1 (footprint 'Package_TO_SOT_SMD:SOT-23-3').
+Changed REF** reference designator to Q2.
+Changed Q2 value from SOT-23-3 to NPN.
+Updated Q2 symbol association from  to /bc75494e-c6e0-4d76-bb35-4c7ac3d9cb9a/af797244-e9f0-4298-adc0-79bec6cdf1d1/ff254a10-cc0a-42bf-a4c9-2c14a3393e61.
+Updated Q2 fields.
+Updated Q2 sheetname to '/ESP/usbToUART/'.
+Updated Q2 sheetfile to 'uart.kicad_sch'.
+Add net Net-(Q2-B).
+Connected Q2 pin 2 to Net-(Q2-B).
+Add net /ESP/usbToUART/DTR.
+Connected Q2 pin 3 to /ESP/usbToUART/DTR.
+Connected P1 pin B6 to /ESP/usb/USB_{DP}.
+Connected P1 pin A7 to /ESP/usb/USB_{DN}.
+Connected P1 pin B12 to GND.
+Connected P1 pin S1 to GND.
+Connected P1 pin S1 to GND.
+Connected P1 pin A4 to /ESP/usb/V_{BUS}.
+Connected P1 pin S1 to GND.
+Connected P1 pin B4 to /ESP/usb/V_{BUS}.
+Add net Net-(P1-CC1).
+Connected P1 pin A5 to Net-(P1-CC1).
+Connected P1 pin B1 to GND.
+Added D2 (footprint 'Diode_SMD:Infineon_SG-WLL-2-3_0.58x0.28_P0.36mm').
+Connected P1 pin B9 to /ESP/usb/V_{BUS}.
+Connected P1 pin A9 to /ESP/usb/V_{BUS}.
+Add net Net-(P1-CC2).
+Connected P1 pin B5 to Net-(P1-CC2).
+Connected P1 pin S1 to GND.
+Connected P1 pin A1 to GND.
+Connected P1 pin A6 to /ESP/usb/USB_{DP}.
+Connected P1 pin B7 to /ESP/usb/USB_{DN}.
+Connected P1 pin A12 to GND.
+Updated C20 sheetname to '/ESP/'.
+Updated C19 sheetfile to 'ESP02U.kicad_sch'.
+Updated C19 footprint filters to 'C_*'.
+Add net Net-(C19-Pad2).
+Connected C19 pin 2 to Net-(C19-Pad2).
+Connected C19 pin 1 to GND.
+Added C20 (footprint 'Capacitor_SMD:CP_Elec_3x5.3').
+Changed REF** reference designator to C20.
+Changed C20 value from CP_Elec_3x5.3 to 10u.
+Updated C20 symbol association from  to /bc75494e-c6e0-4d76-bb35-4c7ac3d9cb9a/9d409afd-d114-4dfa-9c84-10217ecba259.
+Updated C20 fields.
+Updated C19 sheetname to '/ESP/'.
+Updated C20 sheetfile to 'ESP02U.kicad_sch'.
+Updated C20 footprint filters to 'C_*'.
+Add net +3V3.
+Connected C20 pin 1 to +3V3.
+Connected C20 pin 2 to GND.
+Added C21 (footprint 'Capacitor_SMD:CP_Elec_3x5.3').
+Changed REF** reference designator to C21.
+Updated D1 sheetfile to 'usb.kicad_sch'.
+Updated C21 symbol association from  to /bc75494e-c6e0-4d76-bb35-4c7ac3d9cb9a/375ab8fc-6e08-49fb-8f6a-66198689e848.
+Updated C21 fields.
+Updated C18 sheetname to '/MAX30001/'.
+Updated C17 sheetname to '/MAX30001/'.
+Updated C17 sheetfile to 'MAX30001.kicad_sch'.
+Updated C17 footprint filters to 'C_*'.
+Connected C17 pin 2 to GND.
+Connected C17 pin 1 to Net-(U2-ECGP).
+Added C18 (footprint 'Capacitor_SMD:CP_Elec_3x5.3').
+Changed REF** reference designator to C18.
+Changed C18 value from CP_Elec_3x5.3 to 10p.
+Updated C18 symbol association from  to /94c90d4b-01d1-4bb9-ba58-5b4245acc849/a9ef0eb1-06ab-4815-8bc2-520a41de678f.
+Updated C18 fields.
+Changed C21 value from CP_Elec_3x5.3 to 0.1u.
+Updated C18 sheetfile to 'MAX30001.kicad_sch'.
+Updated C18 footprint filters to 'C_*'.
+Connected C18 pin 2 to Net-(U2-ECGN).
+Connected C18 pin 1 to GND.
+Added C19 (footprint 'Capacitor_SMD:CP_Elec_3x5.3').
+Changed REF** reference designator to C19.
+Changed C19 value from CP_Elec_3x5.3 to 0.1u.
+Updated C19 symbol association from  to /bc75494e-c6e0-4d76-bb35-4c7ac3d9cb9a/bcff2dde-c0af-4380-88fe-d8363f822836.
+Updated C19 fields.
+Updated C24 fields.
+Changed C23 value from CP_Elec_3x5.3 to 10u.
+Updated C23 symbol association from  to /bc75494e-c6e0-4d76-bb35-4c7ac3d9cb9a/af797244-e9f0-4298-adc0-79bec6cdf1d1/2c5ff122-469f-40d0-b8f6-5af989e4349b.
+Updated C23 fields.
+Updated C23 sheetname to '/ESP/usbToUART/'.
+Updated C23 sheetfile to 'uart.kicad_sch'.
+Updated C23 footprint filters to 'C_*'.
+Connected C23 pin 1 to +3V3.
+Connected C23 pin 2 to GND.
+Added C24 (footprint 'Capacitor_SMD:CP_Elec_3x5.3').
+Changed REF** reference designator to C24.
+Changed C24 value from CP_Elec_3x5.3 to 1u/16V.
+Updated C24 symbol association from  to /bc75494e-c6e0-4d76-bb35-4c7ac3d9cb9a/af797244-e9f0-4298-adc0-79bec6cdf1d1/6e0ec96a-8b6a-41fb-a527-b899ce6ace6a.
+Changed REF** reference designator to C23.
+Updated C24 sheetname to '/ESP/usbToUART/'.
+Updated C24 sheetfile to 'uart.kicad_sch'.
+Updated C24 footprint filters to 'C_*'.
+Connected C24 pin 1 to GND.
+Add net Net-(U4-VBUS).
+Connected C24 pin 2 to Net-(U4-VBUS).
+Added D1 (footprint 'Diode_SMD:D_0201_0603Metric').
+Changed REF** reference designator to D1.
+Changed D1 value from D_0201_0603Metric to D.
+Updated D1 symbol association from  to /bc75494e-c6e0-4d76-bb35-4c7ac3d9cb9a/d688c31b-2cb6-4d00-93a7-ba0353582a2d/b952de88-bcde-4a94-8c05-be67d8ecd0e4.
+Updated D1 fields.
+Updated D1 sheetname to '/ESP/usb/'.
+Updated C22 sheetname to '/ESP/'.
+Connected C21 pin 2 to GND.
+Connected C21 pin 1 to +3V3.
+Added C22 (footprint 'Capacitor_SMD:CP_Elec_3x5.3').
+Changed REF** reference designator to C22.
+Updated C21 footprint filters to 'C_*'.
+Changed C22 value from CP_Elec_3x5.3 to 1u.
+Updated C22 symbol association from  to /bc75494e-c6e0-4d76-bb35-4c7ac3d9cb9a/a776abfa-2b84-4441-81f1-833e88987811.
+Updated C22 fields.
+Updated C22 sheetfile to 'ESP02U.kicad_sch'.
+Updated C22 footprint filters to 'C_*'.
+Add net /ESP/EN.
+Connected C22 pin 2 to /ESP/EN.
+Connected C22 pin 1 to GND.
+Added C23 (footprint 'Capacitor_SMD:CP_Elec_3x5.3').
+Updated C21 sheetfile to 'ESP02U.kicad_sch'.
+Updated C21 sheetname to '/ESP/'.
+Warning: No net found for component P1 pad A11 (no pin A11 in symbol).
+Warning: No net found for component P1 pad A8 (no pin A8 in symbol).
+Warning: No net found for component P1 pad B11 (no pin B11 in symbol).
+Warning: No net found for component P1 pad B2 (no pin B2 in symbol).
+Warning: No net found for component P1 pad A10 (no pin A10 in symbol).
+Warning: No net found for component P1 pad B10 (no pin B10 in symbol).
+Warning: No net found for component P1 pad A3 (no pin A3 in symbol).
+Warning: No net found for component P1 pad A2 (no pin A2 in symbol).
+Warning: No net found for component P1 pad B3 (no pin B3 in symbol).
+Warning: No net found for component P1 pad B8 (no pin B8 in symbol).
+
+
+Info: Total warnings: 10, errors: 0.

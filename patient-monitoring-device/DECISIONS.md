@@ -25,6 +25,9 @@ The first choice was the MAX86178, which wouldve been the most power efficient a
 | Q: "Why are we not using the MAX32664 sensor hub"? | A: that's calibrated for finger and wrist configs. |
 | :--- | :--- |
 
+IC Characteristics:
+| IC | 
+
 
 ## Assembly
 Mechanical team should decicde on a harness design and on electrode locations for vitals monitoring. (heart rate, breathing, temperature, etc).

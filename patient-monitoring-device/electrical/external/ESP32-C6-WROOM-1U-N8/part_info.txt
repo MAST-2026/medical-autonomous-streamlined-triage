@@ -1,0 +1,9 @@
+Manufacturer=Espressif Systems
+PartNumber=ESP32-C6-WROOM-1U-N8
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=37
+Version=3.1
+Released=2023-08-09 11:49:01
+Downloaded=2026-03-14 16:10:48
+3D=Y

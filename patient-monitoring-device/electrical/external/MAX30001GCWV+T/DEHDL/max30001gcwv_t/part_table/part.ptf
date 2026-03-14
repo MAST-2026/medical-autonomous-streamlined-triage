@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MAX30001GCWV_T'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Analog Devices", "MAX30001GCWV+T" (!) = "", "BGA30C50P6X5_293X274X69", "BGA", "700-MAX30001GCWV+T", "https://www.mouser.co.uk/ProductDetail/Analog-Devices-Maxim-Integrated/MAX30001GCWV%2bT?qs=doiCPypUmgEvmXjfoFk%2Flw%3D%3D", "Ultra-Low-Power, Single-Channel Integrated Biopotential (ECG and R-to-R) and Bioimpedance (Resp, GSR/EDA) AFE", "https://www.analog.com/MAX30001G/datasheet", "0.69 mm"
+END_PART
+
+END.
