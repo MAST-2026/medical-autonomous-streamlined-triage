@@ -3,22 +3,25 @@
 Shane Abbott, Justin Amaya, Tyler Marleton, Christian White, Karla "Kenny" Madrigal
 
 ## Overview
-[Project overview and goals to be added]
+### Key Design Criteria
+Continuous vitals monitoring from wearable patient devices.
+
+Automatic triage status information when patient conditions change.
+
+Real-time transmission of patient data to hospitals.
+
+Reduced workload for EMS personnel, allowing responders to focus on treatment instead of communications.
 
 ## Components (Tentative)
 
 ### 1. Patient Monitoring Device
-Strapped onto the patient as a harness, monitoring vitals such as heart rate, blood pressure, temperature, etc. Would transmit this information.
+Strapped onto the patient as a harness, monitoring vitals such as heart rate, blood pressure, temperature, etc. The deivce would transmit information to the ARU in the vehicle automatically, no human input is necessary.
 
-### 2. Ambulance Repeater Device
-Amplifies transmissions from the patient monitoring device to nearby hospitals.
-This is also the data entry point for EMS personnel to add notes and or amplifying information (google that for more info on why it’s important, ie preexisiting conditions, physical description of pt, etc.).
-It is also capable of pinging the hospital transceiver nodes for open beds and/or other qualifying information and services.
-This will be our longest range device, so maximum wattage is desired to increase range and power through urban rf and physical environments.
+### 2. Ambulance Repeater Unit
+Amplifies transmissions from the patient monitoring device to nearby hospitals. High wattage to counter urban RF environments. Pings the HTU for open beds and/or other qualifying information and services. Receives PMD data.
 
 ### 3. Hospital Transciever Unit
-Located in the hospital, possibly near the radio equipment (often found near the roof to coordinate with air ambulances and other medical aircraft).
-This device should have excellent RX capabilities, but would still need to send out occasional pings with data on the hospitals available services and beds.
+Located in the hospital, possibly near the radio equipment. Should have excellent RX capabilities. The final step in the process, this is what the hospital staff see, the end product of all incoming patients, in one place.
 
 _Kenny: Question, could a filtering system allow doctors to subscribe to patient updates in real-time, receiving only information relevant to their assigned cases? Also, how do cases get assigned? I doubt whether any of these questions are within the scope of our project, and I think we're better off focusing on the existing components._
 
