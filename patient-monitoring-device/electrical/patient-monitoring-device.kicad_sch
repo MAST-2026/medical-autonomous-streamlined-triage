@@ -2,9 +2,135 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid c785af1e-244f-4b75-a94e-a052bfe737f0)
+	(uuid "c785af1e-244f-4b75-a94e-a052bfe737f0")
 	(paper "A4")
 	(lib_symbols)
+	(sheet
+		(at 175.26 106.68)
+		(size 39.37 24.13)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "94c90d4b-01d1-4bb9-ba58-5b4245acc849")
+		(property "Sheetname" "MAX30001"
+			(at 175.26 105.9684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MAX30001.kicad_sch"
+			(at 175.26 131.3946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "patient-monitoring-device"
+				(path "/c785af1e-244f-4b75-a94e-a052bfe737f0"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 102.87 50.8)
+		(size 29.21 35.56)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "bc75494e-c6e0-4d76-bb35-4c7ac3d9cb9a")
+		(property "Sheetname" "ESP"
+			(at 102.87 50.0884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ESP02U.kicad_sch"
+			(at 102.87 86.9446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "patient-monitoring-device"
+				(path "/c785af1e-244f-4b75-a94e-a052bfe737f0"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 184.15 53.34)
+		(size 45.72 36.83)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c1da42a5-ffac-4aab-ae5a-bbf99def7772")
+		(property "Sheetname" "MAX86141"
+			(at 184.15 52.6284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MAX86141.kicad_sch"
+			(at 184.15 90.7546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "patient-monitoring-device"
+				(path "/c785af1e-244f-4b75-a94e-a052bfe737f0"
+					(page "3")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
